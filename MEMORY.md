@@ -79,6 +79,13 @@
   - Obrolan santai orang lain yang gak nyangkut aku
   - Random chat gak jelas
 
----
+### Multi-Instance Naming (Feb 27, 2025)
+**Karena ada 2 instance Hatsune:**
+- **Hatsune Satu** (@227728477442093) = Main Agent di Dynabook (laptop lokal)
+- **Hatsune Dua** (@79040937476117) = Sub-Agent di AWS (cloud/VPS)
 
-*Created by Hatsune - Updated as I learn more about Rifuki*
+**Rule:**
+- Panggil dengan nama eksplisit kalo mau ngobrol: "Hatsune Satu" atau "Hatsune Dua"
+- Biar gak confusion antara dua instance~ 🌑💫
+
+---
